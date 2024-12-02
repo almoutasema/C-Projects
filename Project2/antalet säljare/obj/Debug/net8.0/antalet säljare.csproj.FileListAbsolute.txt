@@ -1,0 +1,14 @@
+C:\Users\motas\OneDrive\Desktop\test\antalet säljare\bin\Debug\net8.0\antalet säljare.exe
+C:\Users\motas\OneDrive\Desktop\test\antalet säljare\bin\Debug\net8.0\antalet säljare.deps.json
+C:\Users\motas\OneDrive\Desktop\test\antalet säljare\bin\Debug\net8.0\antalet säljare.runtimeconfig.json
+C:\Users\motas\OneDrive\Desktop\test\antalet säljare\bin\Debug\net8.0\antalet säljare.dll
+C:\Users\motas\OneDrive\Desktop\test\antalet säljare\bin\Debug\net8.0\antalet säljare.pdb
+C:\Users\motas\OneDrive\Desktop\test\antalet säljare\obj\Debug\net8.0\antalet säljare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motas\OneDrive\Desktop\test\antalet säljare\obj\Debug\net8.0\antalet säljare.AssemblyInfoInputs.cache
+C:\Users\motas\OneDrive\Desktop\test\antalet säljare\obj\Debug\net8.0\antalet säljare.AssemblyInfo.cs
+C:\Users\motas\OneDrive\Desktop\test\antalet säljare\obj\Debug\net8.0\antalet säljare.csproj.CoreCompileInputs.cache
+C:\Users\motas\OneDrive\Desktop\test\antalet säljare\obj\Debug\net8.0\antalet säljare.dll
+C:\Users\motas\OneDrive\Desktop\test\antalet säljare\obj\Debug\net8.0\refint\antalet säljare.dll
+C:\Users\motas\OneDrive\Desktop\test\antalet säljare\obj\Debug\net8.0\antalet säljare.pdb
+C:\Users\motas\OneDrive\Desktop\test\antalet säljare\obj\Debug\net8.0\antalet säljare.genruntimeconfig.cache
+C:\Users\motas\OneDrive\Desktop\test\antalet säljare\obj\Debug\net8.0\ref\antalet säljare.dll
